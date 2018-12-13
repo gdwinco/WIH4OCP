@@ -1,6 +1,9 @@
 # WIH4OCP
 This repo contains the code to create a container from the very cool jBPM Work Item Repostiory Code for deployment in a Red Hat Process Automation Manager (RHPAM) OCP environment
 
+Easy WorkItem installation (jBPM WorkItem Repository)
+<http://mswiderski.blogspot.com/2018/07/easy-workitem-installation-jbpm.html>
+
 ---
 ## Prerequisites
 Check out the repo code here:
